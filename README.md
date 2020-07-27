@@ -1,2 +1,2 @@
-# CursoMeuPrimeiroSite
-Primeiro Exercicio do curso
+# Desafio da semana 1
+Desafio da semana
